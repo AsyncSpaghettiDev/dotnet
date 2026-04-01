@@ -1,0 +1,14 @@
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.dll
+*.exe
+*.pdb
+.vs/
+.vscode/
+*.md
+Dockerfile
+docker-compose.yml
+docker-compose.override.yml
