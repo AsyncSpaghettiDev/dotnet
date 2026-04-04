@@ -1,0 +1,16 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "explicit",
+    "source.fixAll": "explicit"
+  },
+  "csharp.format.organizeImports": true,
+  "csharp.format.sortUsings": true,
+  "csharp.semanticHighlighting.enabled": true,
+  "csharp.inlayHints.variables.enabled": true,
+  "omnisharp.enableEditorConfigSupport": true,
+  "omnisharp.enableRoslynAnalyzers": true,
+  "omnisharp.analyzeOpenDocumentsOnly": true,
+  "dotnet.inlayHints.enableInlayHintsForParameters": true,
+  "csharp.inlayHints.enableInlayHintsForTypes": true,
+  "dotnet.completion.showCompletionItemsFromUnimportedNamespaces": true
+}
